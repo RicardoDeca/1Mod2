@@ -1,0 +1,12 @@
+let name = "Ricardo";
+let age = 22;
+let year = 2022;
+let sub = year - age;
+console.log(name);
+console.log(age);
+console.log(sub);
+let text = "Estou mexendo no console.log";
+console.log(text);
+let quartaFeira = false;
+console.log(quartaFeira);
+console.log(typeof quartaFeira);
